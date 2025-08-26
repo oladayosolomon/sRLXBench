@@ -14,7 +14,7 @@ git clone https://github.com/benelot/pybullet-gym.git
 cd pybullet-gym
 pip install -e .
 ```
-you should then copy the sDRL folder to the PlatEMO multi-objective problem directory, the mat_eval_env.py to the main PlatEMO directory (the one with the platemo.m file), and the HV_rl.m file to the Metric directory<br />
+You should then copy the sDRL folder to the PlatEMO multi-objective problem directory and the mat_eval_env.py to the main PlatEMO directory (the one with the platemo.m file)<br />
 
 Path related information<br />
 
